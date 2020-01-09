@@ -1,8 +1,7 @@
 # dolar-exchange
  app de conversão de montante em USD para BRL.
 
-
-# Frontend Developer Jr 
+## Frontend Developer Jr 
 
 Seu desafio será construir uma aplicação de conversão de montante em DÓLAR para REAL. 
 
