@@ -1,4 +1,4 @@
-# dolar-exchange
+# usd-exchange
  app de conversão de montante em USD para BRL.
 
  - [Frontend Developer Jr](https://github.com/fairykei/dolar-exchange/blob/master/frontend-jr.md)
