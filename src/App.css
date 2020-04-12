@@ -84,10 +84,13 @@ button:hover {
   text-decoration: none;
 }
 
+.results {
+  display: inline-flex;
+  align-items: center;
+  justify-content: left;
+}
+
 .result {
-  display: grid;
-  grid-column: span 2;
-  grid-row: span 2;
   background-color: #fff;
   box-shadow: 0 4px 16px -8px black;
   padding: 32px;
